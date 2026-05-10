@@ -1,5 +1,5 @@
 // @generated
-module github.com/tree-sitter/tree-sitter-erlang
+module github.com/julianshen/tree-sitter-erlang
 
 go 1.23
 
